@@ -56,7 +56,7 @@ function App() {
         }}
       >
         <div>
-          <a href="williamasease.github.io">Back...</a>
+          <a href="https://williamasease.github.io">Back...</a>
         </div>
         <div style={{ margin: 10, display: "flex", flexDirection: "row" }}>
           {birthdays.map((person) => (
